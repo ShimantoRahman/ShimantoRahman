@@ -1,4 +1,9 @@
-## Hi there 👋
+## ✨ Hi there, I'm Shimanto ✨
+
+- 🏛 I am a PhD researcher at the Data Analytics cluster of the Faculty of Economics at Ghent University.
+- 📚 I specialize in cost-sensitive and value-driven learning.
+- 🌱 That's why I am maintaing Empulse, an open-source python package to perform cost-sensitive and value-driven learning.
+- 📫 You can reach me through sending a friendly email to Shimanto.Rahman@UGent.be
 
 <!--
 **ShimantoRahman/ShimantoRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
